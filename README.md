@@ -4,6 +4,9 @@ Antoine Malescot, Milene R. Malheiros-Lima, Laurianne Zana, Michael C. Bennett, 
 Scripts used to process data in Malescot et al. (2026).
 Processed data are available on Dryad repository: https://doi.org/10.5061/dryad.n5tb2rcb8
 
-
+External code and dependencies used:
+Suite2p toolbox: https://github.com/MouseLand/suite2p
+Umit library: https://github.com/LabeoTech/Umit
+In silico blood-flow mode: https://github.com/Franculino/vgm
 
 
