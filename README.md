@@ -7,6 +7,6 @@ Processed data are available on Dryad repository: https://doi.org/10.5061/dryad.
 External code and dependencies used: <br />
 Suite2p toolbox: https://github.com/MouseLand/suite2p <br />
 Umit library: https://github.com/LabeoTech/Umit <br />
-In silico blood-flow mode: https://github.com/Franculino/vgm <br />
+In silico blood-flow model: https://github.com/Franculino/vgm <br />
 
 
